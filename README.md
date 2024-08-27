@@ -1,1 +1,1 @@
-# Daily-Habit-Tracker
+# Daily-habits-Tracker
